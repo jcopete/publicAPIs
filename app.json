@@ -1,5 +1,6 @@
 {
   "name": "Node.js Getting Started",
   "description": "A barebones Node.js api using Express 4",
+  "repository": "https://github.com/jcopete/publicAPIs"
   "keywords": ["node", "express", "static", "meetup"]
 }
