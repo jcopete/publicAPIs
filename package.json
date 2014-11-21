@@ -1,0 +1,21 @@
+{
+  "name": "node-js-mystapp",
+  "version": "0.1.0",
+  "description": "A sample Node.js api using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "meetup"
+  ]
+}

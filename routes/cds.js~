@@ -1,0 +1,7 @@
+
+
+exports.findAll = function (req, res) {
+	var myjson= { msgId: 123};
+
+	res.json(myjson);
+};

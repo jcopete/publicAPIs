@@ -1,0 +1,5 @@
+{
+  "name": "Node.js Getting Started",
+  "description": "A barebones Node.js api using Express 4",
+  "keywords": ["node", "express", "static", "meetup"]
+}
