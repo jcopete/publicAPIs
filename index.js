@@ -1,5 +1,7 @@
 var express = require('express')
-    cds = require('./routes/cds');
+  , cds = require('./routes/cds')
+  , store = require ('./routes/store')
+  , mongoose = require ('mongoose');
 
 var app = express();
 
