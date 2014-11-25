@@ -16,7 +16,8 @@ app.get('/', function(request, response) {
 
 app.get ('/cd', cds.findAll );
 
-app.get ('/store', store.index );
+app.get ('/store', store.findAll );
+app.post ('/store', store.saveCD );
 //app.put ('/cd', cds.updateCD );
 //app.post ('/cd', cds.storeCD );
 //app.get ('/cd:id', cds.findById );
